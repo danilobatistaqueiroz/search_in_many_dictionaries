@@ -1,0 +1,14 @@
+{
+    "WORD_FIELD": "word",
+    "TRANSLATIONS_FIELD":"-pt",
+    "DEFINITIONS_FIELD": "-definition",
+    "PHRASES_FIELD": "-phrases",
+    "TRANSLATED_PHRASES_FIELD": "-phrases-pt",
+    "IPA_FIELD": "-ipa",
+    "SYNONYMS_FIELD": "-synonyms",
+    "LANG_SOURCE_ABRV": "en",
+    "LANG_TARGET_ABRV": "pt",
+    "COUNTRY_TARGET_ABRV": "br",
+    "SOURCE_LANGUAGE": "ingles",
+    "TARGET_LANGUAGE": "portugues"
+}
